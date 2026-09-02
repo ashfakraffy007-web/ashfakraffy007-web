@@ -1,89 +1,64 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160&section=header&text=ASHFAK&fontSize=65&fontColor=00FF88&animation=fadeIn&fontAlignY=45&desc=CYBERSECURITY%20%7C%20LINUX%20%7C%20PYTHON&descSize=17&descColor=C9D1D9&descAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=ASHFAK&fontSize=60&fontColor=00FF88&fontAlignY=40&desc=CYBERSECURITY%20%7C%20LINUX%20%7C%20PYTHON&descAlignY=68&descSize=16&descColor=C9D1D9"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=650&lines=Cybersecurity+Learner;Linux+%7C+Kali+Linux+Enthusiast;Python+Learner;Networking+%7C+Web+Security;Learn+%E2%86%92+Practice+%E2%86%92+Build;Hack+Ethically+%F0%9F%9B%A1%EF%B8%8F"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Cybersecurity+Learner;Linux+%7C+Kali+Linux+Enthusiast;Python+Learner;Networking+%7C+Web+Security;Learn+%E2%86%92+Practice+%E2%86%92+Build;Hack+Ethically+%F0%9F%9B%A1%EF%B8%8F"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-00FF88?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00FF88?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/OS-KALI%20LINUX-00FF88?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-LEARNING-00FF88?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LINUX-ACTIVE-00FF88?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/PYTHON-LEARNING-00FF88?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-## 🧑‍💻 ABOUT ME
+# 🛡️ WHO AM I?
+
+</div>
 
 ```text
-┌──────────────────────────────┐
-│                              │
-│  👋 Hey, I'm Ashfak          │
-│                              │
-│  🛡️ Cybersecurity Learner    │
-│  🐧 Linux Enthusiast         │
-│  🐍 Python Learner           │
-│  🌐 Networking Explorer      │
-│  🔐 Web Security Explorer    │
-│  🚩 CTF Practitioner         │
-│                              │
-│  ⚡ Always learning           │
-│                              │
-└──────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   👋 Hey! I'm Ashfak                                         ║
+║                                                              ║
+║   🛡️  Cybersecurity Learner                                 ║
+║   🐧  Linux & Kali Linux Enthusiast                          ║
+║   🐍  Python Learner                                         ║
+║   🌐  Networking Explorer                                    ║
+║   🔐  Web Security Explorer                                  ║
+║   🚩  CTF Practitioner                                       ║
+║                                                              ║
+║   ⚡ Learning something new every day.                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ````
 
-</td>
-
-<td width="50%" valign="top">
-
-## ⚡ SYSTEM STATUS
-
-```text
-╔══════════════════════════════╗
-║       ASHFAK.EXE            ║
-╠══════════════════════════════╣
-║                              ║
-║  🟢 CYBERSECURITY   ACTIVE   ║
-║  🟢 LINUX           ACTIVE   ║
-║  🟢 PYTHON          LEARNING ║
-║  🟢 NETWORKING      LEARNING ║
-║  🟢 WEB SECURITY    LEARNING ║
-║                              ║
-╠══════════════════════════════╣
-║  STATUS: READY               ║
-╚══════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
 ---
 
 <div align="center">
 
-## 🛡️ CYBERSECURITY
+## 🧠 MY FOCUS
 
-<img src="https://img.shields.io/badge/WEB_SECURITY-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF88"/>
-<img src="https://img.shields.io/badge/NETWORKING-0D1117?style=for-the-badge&logo=cisco&logoColor=00FF88"/>
-<img src="https://img.shields.io/badge/LINUX-0D1117?style=for-the-badge&logo=linux&logoColor=00FF88"/>
-<img src="https://img.shields.io/badge/CTF-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF88"/>
-<img src="https://img.shields.io/badge/ETHICAL_HACKING-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/🔐%20WEB%20SECURITY-0D1117?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/🌐%20NETWORKING-0D1117?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/🐧%20LINUX-0D1117?style=for-the-badge&logo=linux&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/🚩%20CTF-0D1117?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/🛡️%20CYBERSECURITY-0D1117?style=for-the-badge&logoColor=00FF88"/>
 
 </div>
 
 ---
 
-## 💻 TECHNOLOGIES
-
 <div align="center">
+
+## 💻 TECHNOLOGY STACK
 
 ### LANGUAGES
 
@@ -91,7 +66,7 @@
 
 <br><br>
 
-### LINUX & DEVELOPMENT
+### LINUX • DEVELOPMENT • TOOLS
 
 <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,git,github,vscode&theme=dark"/>
 
@@ -99,27 +74,15 @@
 
 ---
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%" valign="top">
+## 📊 GITHUB STATISTICS
 
-## 📊 GITHUB STATS
+<img src="https://github-readme-stats.vercel.app/api?username=ashfakraffy007-web&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashfakraffy007-web&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfakraffy007-web&layout=compact&hide_border=true&langs_count=8&theme=github_dark&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9" width="48%"/>
 
-</td>
-
-<td width="50%" valign="top">
-
-## 📚 TOP LANGUAGES
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfakraffy007-web&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9"/>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -135,80 +98,99 @@
 
 <div align="center">
 
-## 🟩 CONTRIBUTION GRAPH
+## 🟩 CONTRIBUTION ACTIVITY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfakraffy007-web&bg_color=0D1117&color=C9D1D9&line=00FF88&point=FFFFFF&area=true&hide_border=true&custom_title=ASHFAK%20-%20CONTRIBUTION%20ACTIVITY" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfakraffy007-web&theme=github-compact&hide_border=true&area=true&custom_title=ASHFAK%20-%20GITHUB%20ACTIVITY" width="100%"/>
 
 </div>
-
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎯 CURRENTLY LEARNING
-
-```text
-CYBERSECURITY
-████████████░░░░  75%
-
-LINUX
-█████████████░░░  80%
-
-NETWORKING
-██████████░░░░░░  65%
-
-PYTHON
-█████████░░░░░░░  60%
-
-WEB SECURITY
-██████████░░░░░░  65%
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🚀 MY GOALS
-
-```text
-[01] 🛡️ Master Cybersecurity
-
-[02] 🐧 Master Linux
-
-[03] 🐍 Improve Python
-
-[04] 🌐 Learn Networking
-
-[05] 🔐 Learn Web Security
-
-[06] 🚩 Complete CTFs
-
-[07] 💻 Build Real Projects
-```
-
-</td>
-
-</tr>
-</table>
 
 ---
 
 <div align="center">
 
-## 🏆 GITHUB TROPHIES
+## 🚀 CURRENTLY LEARNING
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashfakraffy007-web&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+</div>
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   🛡️  CYBERSECURITY                                         ║
+║       Security fundamentals • Web Security • CTF            ║
+║                                                              ║
+║   🐧  LINUX                                                   ║
+║       Linux fundamentals • Kali Linux • Bash                ║
+║                                                              ║
+║   🌐  NETWORKING                                              ║
+║       TCP/IP • HTTP • DNS • Network fundamentals             ║
+║                                                              ║
+║   🐍  PYTHON                                                  ║
+║       Programming fundamentals • Automation                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+## 🎯 MY ROADMAP
+
+</div>
+
+```text
+        ┌────────────────────────────────────────────┐
+        │                                            │
+        │  [01] 🐧 Learn Linux                      │
+        │       ↓                                    │
+        │  [02] 🌐 Understand Networking            │
+        │       ↓                                    │
+        │  [03] 🐍 Improve Python                   │
+        │       ↓                                    │
+        │  [04] 🔐 Learn Web Security               │
+        │       ↓                                    │
+        │  [05] 🚩 Practice CTF Challenges          │
+        │       ↓                                    │
+        │  [06] 🛡️ Build Cybersecurity Projects    │
+        │       ↓                                    │
+        │  [07] 💻 Keep Building & Learning        │
+        │                                            │
+        └────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## 📂 PROJECTS
+
+<a href="https://github.com/ashfakraffy007-web?tab=repositories">
+
+<img src="https://img.shields.io/badge/VIEW%20ALL%20MY%20REPOSITORIES-00FF88?style=for-the-badge&logo=github&logoColor=0D1117"/>
+
+</a>
+
+<br><br>
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                    🚧 BUILDING...                            ║
+║                                                              ║
+║       Cybersecurity • Linux • Python • Networking             ║
+║                                                              ║
+║                More projects coming soon.                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
+
+<div align="center">
 
 ## 🧰 TOOLKIT
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,linux,kali,bash,git,github,vscode,html,css,js&theme=dark&perline=10"/>
 
@@ -224,27 +206,15 @@ WEB SECURITY
 
 ---
 
-## 🚀 PROJECTS
-
 <div align="center">
 
-<a href="https://github.com/ashfakraffy007-web?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_MY_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=00FF88"/>
+## 🌐 CONNECT WITH ME
+
+<a href="https://github.com/ashfakraffy007-web">
+
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
 </a>
-
-<br><br>
-
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║          🚧 PROJECTS IN PROGRESS             ║
-║                                              ║
-║       Cybersecurity • Linux • Python         ║
-║                                              ║
-║          More projects coming...             ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
 
 </div>
 
@@ -252,35 +222,26 @@ WEB SECURITY
 
 <div align="center">
 
-## 🌐 CONNECT
-
-<a href="https://github.com/ashfakraffy007-web">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<br><br>
-
 ## 👁️ PROFILE VIEWS
 
-<img src="https://komarev.com/ghpvc/?username=ashfakraffy007-web&label=PROFILE%20VIEWS&color=00FF88&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ashfakraffy007-web&label=PROFILE%20VIEWS&style=for-the-badge&color=00FF88"/>
 
 <br><br>
 
 ```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║        sudo learn --everything               ║
-║                                              ║
-║        LEARN • BUILD • SECURE                ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                 sudo learn --everything                      ║
+║                                                              ║
+║             LEARN  •  BUILD  •  SECURE                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ### 🛡️ KEEP LEARNING • KEEP BUILDING • HACK ETHICALLY
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:111827,100:0D1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:111827,100:0D1117&height=120&section=footer"/>
 
 </div>
-
