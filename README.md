@@ -1,4 +1,3 @@
-````html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160&section=header&text=ASHFAK&fontSize=65&fontColor=00FF88&animation=fadeIn&fontAlignY=45&desc=CYBERSECURITY%20%7C%20LINUX%20%7C%20PYTHON&descSize=17&descColor=C9D1D9&descAlignY=75"/>
@@ -284,5 +283,4 @@ WEB SECURITY
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:111827,100:0D1117&height=100&section=footer"/>
 
 </div>
-```
 
