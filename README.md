@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🛡️ ASHFAK
@@ -212,3 +213,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:111827,100:0D1117&height=100&section=footer"/>
 
 </div>
+```
+
