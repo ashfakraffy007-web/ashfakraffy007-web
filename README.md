@@ -1,29 +1,31 @@
 <div align="center">
 
-# 👋 Hey, I'm Ashfak
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:00ff88&height=180&section=header&text=ASHFAK&fontSize=60&fontColor=00ff88&fontAlignY=40&desc=CYBERSECURITY%20%7C%20LINUX%20%7C%20DEVELOPER&descAlignY=65&descSize=16&animation=fadeIn"/>
 
-### 🛡️ Cybersecurity Learner | 💻 Developer | 🐧 Linux Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Cybersecurity+%7C+Linux+%7C+Python;Learning+%E2%80%A2+Building+%E2%80%A2+Breaking;Always+learning+something+new+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=Initializing+Ashfak.exe...;Cybersecurity+Learner+%F0%9F%9B%A1%EF%B8%8F;Linux+Enthusiast+%F0%9F%90%A7;Python+Learner+%F0%9F%90%8D;Learning+%E2%80%A2+Building+%E2%80%A2+Securing;Welcome+to+my+GitHub+%F0%9F%91%8B"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## 🧑‍💻 ABOUT ME
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  👋 Hi! I'm Ashfak                                           │
-│                                                              │
-│  🛡️ Passionate about Cybersecurity                           │
-│  🐧 Exploring Linux & Kali Linux                             │
-│  🐍 Learning Python                                          │
-│  🌐 Exploring Networking & Web Security                      │
-│  🚩 Practicing CTFs & TryHackMe                              │
-│  💻 Building projects and improving every day                │
-│                                                              │
-│  ⚡ Learn → Practice → Build → Repeat                        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────┐
+│                                 │
+│  👋 Hi, I'm Ashfak              │
+│                                 │
+│  🛡️ Cybersecurity Learner       │
+│  🐧 Linux Enthusiast            │
+│  🐍 Python Learner              │
+│  🌐 Networking Explorer         │
+│  🔐 Web Security Explorer       │
+│  🚩 CTF Practitioner             │
+│                                 │
+│  ⚡ Learn → Practice → Build    │
+│                                 │
+└─────────────────────────────────┘
