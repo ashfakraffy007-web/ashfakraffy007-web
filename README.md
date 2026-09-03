@@ -82,8 +82,8 @@ STATUS   ████████████████░░░░  80%
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashfakraffy007-web&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&ring_color=00FF88"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfakraffy007-web&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&langs_count=6"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashfakraffy007-web&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&ring_color=00FF88&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfakraffy007-web&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&langs_count=6&cache_seconds=1800"/>
 
 <img src="https://streak-stats.demolab.com?user=ashfakraffy007-web&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
@@ -96,6 +96,8 @@ STATUS   ████████████████░░░░  80%
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfakraffy007-web&bg_color=0D1117&color=C9D1D9&line=00FF88&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
+
+*(If this graph or the stats cards above don't load, refresh the page — they're served from a free shared instance that occasionally rate-limits under heavy traffic.)*
 
 </div>
 
